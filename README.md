@@ -1,6 +1,6 @@
 <h3 align="center">Senior Frontend Developer</h3>
 
-- 🔭 I’m currently working on [RushBrush](rushbrush.com)
+- 🔭 I’m currently working on [RushBrush](https://github.com/rushbrush)
 
 - 🌱 I’m currently learning **NODEJS, UI/UX**
 
