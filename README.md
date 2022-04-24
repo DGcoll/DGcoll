@@ -2,7 +2,7 @@
 
 - 🔭 I’m currently working on [RushBrush](rushbrush.com)
 
-- 🌱 I’m currently learning **NODEJES, UI/UX**
+- 🌱 I’m currently learning **NODEJS, UI/UX**
 
 - 🤝 I’m looking for help with **React & React native, nodejs , angular, UI/UX**
 
