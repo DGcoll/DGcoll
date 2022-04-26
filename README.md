@@ -1,5 +1,4 @@
-<h3 align="center">Senior Frontend Developer</h3>
-
+![Cover](./assets/cover_by_ahmed_gad.jpg)
 - 🔭 I’m currently working on [RushBrush](https://github.com/rushbrush)
 
 - 🌱 I’m currently learning **NODEJS, UI/UX**
