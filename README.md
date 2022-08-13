@@ -1,5 +1,5 @@
 ![Cover](./assets/cover_by_ahmed_gad.jpg)
-- 🔭 I’m currently working on [RushBrush](https://github.com/rushbrush)
+- 🔭 I’m currently working at [Tech 2 Home](https://www.tech2.com.au/)
 
 - 🌱 I’m currently learning **NODEJS, UI/UX**
 
