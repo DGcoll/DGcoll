@@ -1,6 +1,4 @@
 ![Cover](./assets/cover_by_ahmed_gad.jpg)
-- 🔭 I’m currently working at [Tech 2 Home](https://www.tech2.com.au/)
-
 - 🌱 I’m currently learning **NODEJS, UI/UX**
 
 - 🤝 I’m looking for help with **React & React native, nodejs , angular, UI/UX**
