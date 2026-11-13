@@ -1,4 +1,4 @@
-![Cover](./assets/cover_by_ahmed_gad.jpg)
+![Cover](./assets/geese-results-animation.gif)
 
 ## Ahmed Gad  
 **Senior Frontend Developer & UX/UI Specialist**
