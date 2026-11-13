@@ -13,7 +13,28 @@ Building scalable, high-performance web applications and design systems with a s
 - ERP frontend development & enterprise system integration (Odoo & custom ERP solutions)
 
 ### 🏢 Experience
-- **Senior Frontend Developer @ STC**
+- **Senior Frontend & UX/UI Developer @ Raneen**
+  - Full-time, remote · Oct 2025 - Present
+  - Earlier listed role: Full-time, remote · Feb 2025 - Dec 2025
+- **Senior Frontend Developer @ stc**  
+  Full-time, remote · Nov 2022 - Dec 2025
+- **Course Instructor @ Teradevelopers**  
+  Part-time · Jan 2020 - Nov 2025
+- **Frontend & UX Team Lead @ zumurudat**  
+  Part-time · Jun 2024 - Aug 2025
+- **Senior Frontend Developer @ RUSHBRUSH, INC.**  
+  Full-time · Oct 2021 - Oct 2022
+- **Senior Frontend Developer @ tech2**
+  - Part-time · Oct 2021 - Apr 2022
+  - Full-time · Jan 2020 - Jan 2022
+- **Frontend Developer @ IEREK**  
+  Full-time · Mar 2019 - Oct 2019
+- **Frontend Developer @ Freelancer.com**  
+  Freelance · Dec 2015 - Jan 2019
+- **Frontend Developer @ Seven Tech**  
+  Full-time · Oct 2017 - Aug 2018
+- **Production Technician & Repair Technician @ El Sewedy Electrometer Group**  
+  Sep 2015 - Jul 2016
 
 ### 💡 Expertise
 - Angular (Enterprise-level apps)  
